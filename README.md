@@ -1,5 +1,5 @@
 # produisez-une-etude-de-marche-avec-R-ou-Python
-ous travaillez chez La poule qui chante, une entreprise française d’agroalimentaire. Son activité principale est l’élevage et la vente de poulets sous le label “Poulet Agriculture Biologique”. 
+Vous travaillez chez La poule qui chante, une entreprise française d’agroalimentaire. Son activité principale est l’élevage et la vente de poulets sous le label “Poulet Agriculture Biologique”. 
 
  
 
